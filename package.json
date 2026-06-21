@@ -6,7 +6,7 @@
   "homepage": "https://detecte.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DoctorMathx/detecte-cli.git"
+    "url": "https://github.com/detecte-xyz/detecte-cli.git"
   },
   "bin": {
     "detecte": "./dist/index.js"
